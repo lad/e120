@@ -15,4 +15,4 @@ highlight link  ChefKeyword     Define
 highlight link  ChefDefine      rubyDefine
 highlight link  chefAttribute   ChefAttribute
 
-let b:current_syntax = 1
+let b:current_syntax = "chef"
